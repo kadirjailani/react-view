@@ -1,0 +1,25 @@
+body {
+  background-color: #fff;
+}
+
+#root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+  color: #000;
+}
+
+.App {
+  width: 100%;
+}
+
+.App .top-header {
+  width: 100%;
+  text-align: center;
+}
+
+.App .top-header .main-title, .App .top-header .sub {
+  padding: 0;
+  margin: 5px 0;
+}
