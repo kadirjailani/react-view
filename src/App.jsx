@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <div className="top-header">
         <h3 className="main-title">LitJS component package running in ReactJS.</h3>
-        <p className="sub">Click here to learn <a href="https://youtu.be/dQw4w9WgXcQ?autoplay=1">more</a></p>
+        <p className="sub">Click here to learn <a href="https://media.tenor.com/QMYWj5A9tBwAAAAd/rick-roll-rick-astley.gif">more</a></p>
       </div>
       <SuperSearchElement></SuperSearchElement>
     </div>
